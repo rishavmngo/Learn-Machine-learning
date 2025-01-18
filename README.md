@@ -11,4 +11,4 @@
 
 ## Day 3 (18-01-2025)
 
--
+- Solved 27 question from 100 numpy questions
