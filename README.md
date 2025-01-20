@@ -24,7 +24,7 @@
 - Read intermediate section of practiceprobs
 - Revist solved question from previous day and solved few more questions from 100Q.
 
-## Day 4 (20-01-2025)
+## Day 5 (20-01-2025)
 
 - Solved all(3) questions in intermediate section .
 - Read proefficient section completely.
