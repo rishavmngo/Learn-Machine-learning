@@ -1,9 +1,10 @@
 # Machine Learning Journal
 
-# Resource used
+# Resources used
 
 - practiceprobs by ben gorman
 - numpy 100 questions
+- www.realpython.com
 
 ## Day 1 (16-01-2025)
 
@@ -28,3 +29,8 @@
 
 - Solved all(3) questions in intermediate section .
 - Read proefficient section completely.
+
+## Day 6 (21-01-2025)
+
+- Solved 15 questions from numpy-100
+- Solved 1 question from practiceprobs intermediate section
