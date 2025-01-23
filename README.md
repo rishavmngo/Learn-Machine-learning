@@ -34,3 +34,7 @@
 
 - Solved 15 questions from numpy-100
 - Solved 1 question from practiceprobs intermediate section
+
+## Day 7 (22-01-2025)
+
+- Solved only 2-3 questions just for being consistent.
