@@ -38,3 +38,9 @@
 ## Day 7 (22-01-2025)
 
 - Solved only 2-3 questions just for being consistent.
+
+## Day 8 (23-01-2025)
+
+- Solved proeficient section
+- Read advance section
+- will move to pandas tomorrow because I got little frustrated with some questions and concepts from advance section. Will try to revist soon to these.
