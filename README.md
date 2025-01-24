@@ -44,3 +44,7 @@
 - Solved proeficient section
 - Read advance section
 - will move to pandas tomorrow because I got little frustrated with some questions and concepts from advance section. Will try to revist soon to these.
+
+## Day 9 (24-01-2025)
+
+- Started learning pandas
