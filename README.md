@@ -5,6 +5,7 @@
 - practiceprobs by ben gorman
 - numpy 100 questions
 - www.realpython.com
+- Khan academy for mathematics
 
 ## Day 1 (16-01-2025)
 
@@ -48,3 +49,8 @@
 ## Day 9 (24-01-2025)
 
 - Started learning pandas
+- Started unit one of pre-calculas from khan academy
+
+## Day 10 (25-01-2025)
+
+- Finished unit one of pre-calculas
