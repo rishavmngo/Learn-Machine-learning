@@ -54,3 +54,7 @@
 ## Day 10 (25-01-2025)
 
 - Finished unit one of pre-calculas
+
+## Day 11 (26-01-2025)
+
+- Read and solved half of unit two of pre-calculas (trigonometry)
