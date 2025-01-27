@@ -58,3 +58,7 @@
 ## Day 11 (26-01-2025)
 
 - Read and solved half of unit two of pre-calculas (trigonometry)
+
+## Day 12 (27-01-2025)
+
+- Given Unit test and also learning unit 2 of pre-calculas
