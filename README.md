@@ -62,3 +62,8 @@
 ## Day 12 (27-01-2025)
 
 - Given Unit test and also learning unit 2 of pre-calculas
+
+## Day 13 (28-01-2025)
+
+- Read beginner section of pandas
+- Learn trigonometry
