@@ -67,3 +67,7 @@
 
 - Read beginner section of pandas
 - Learn trigonometry
+
+## Day 14 (29-01-2025)
+
+- Learn inverse trigonometry function
