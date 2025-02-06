@@ -70,4 +70,11 @@
 
 ## Day 14 (29-01-2025)
 
-- Learn inverse trigonometry function
+- Learned inverse trigonometry function
+
+## Day 15 - Day 22 (30-01-2025 to 06-01-2025)
+
+- Learning mathematics for past 8 days because i want to read this amazing book "Neural Networks and Deep Learning by Michael Nielsen".
+- Finished pre-calculas
+- Learning calculas and currently reading and solving derevaties.
+- Will start reading the book and learning required mathematics simultaneously.
